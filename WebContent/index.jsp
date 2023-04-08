@@ -40,7 +40,7 @@ div.ex {
 					<td><input type="text" name="qual"/></td>
 				</tr>
 				<tr>
-					<td>Student Percentage</td>
+					<td>Student  Percentage</td>
 					<td><input type="text" name="percent"/></td>
 				</tr>
 				<tr>
